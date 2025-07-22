@@ -30,3 +30,7 @@ output "bucket_id" {
 locals {
   local_example = "This is a local variable"
 }
+
+module "my_module" {
+  source = "./module-example"
+}

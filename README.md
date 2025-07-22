@@ -2,13 +2,6 @@
 
 This repository contains my studies and practice exercises from the [Terraform: The Complete Guide from Beginner to Expert](https://www.udemy.com/course/mastering-terraform-beginner-to-expert) course. Terraform is an open-source infrastructure as code software tool that enables you to safely and predictably create, change, and improve infrastructure.
 
-## 🗂️ Repository Structure
-
-```
-├── 01-benefits-iac/         # Introduction to Infrastructure as Code (IaC) and Terraform
-├── 02-hcl/                  # Terraform's Building Blocks
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
